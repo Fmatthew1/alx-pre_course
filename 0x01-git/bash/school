@@ -1,4 +1,2 @@
-echo "School" > "The school is open"
-
-School
+echo "The school is open!"
 
